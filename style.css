@@ -1,0 +1,555 @@
+@import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@100;200;300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@100;200;300;400;500;600&family=Roboto:wght@100;300;400;700&display=swap');
+
+.header__img {
+    position: absolute;
+    width: 300px;
+    height: 320px;
+    left:7%;
+    top:8%;
+    background: url(kart2.jpg);
+    border-radius: 20px;
+
+}
+.header__stock {
+    position: absolute;
+    width: 89px;
+    height: 31px;
+    left:28%;
+    top:9%;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+    color: #EF0000;
+
+}
+
+.header__text {
+    position: absolute;
+    width: 422px;
+    height: 22px;
+    left:28%;
+    top:16%;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    color: #101010;
+    
+}
+
+
+.header__text_h3 {
+
+    position: absolute;
+    width: 422px;
+    height: 22px;
+    left:47%;
+    top:15%;
+    font-family: 'Commissioner';
+    font-style: normal;
+}
+
+.header__arrow {
+
+position: absolute;
+width: 424px;
+height: 83px;
+border-radius: 5px;
+top: 24%;
+left: 27.5%; }
+
+.header__arrow_tail {
+    position: absolute;
+    width: 113px;
+    height: 58.8px;
+    top: 22.4%;
+    left:57.5%; 
+}
+
+.arrow_text {
+
+    position: absolute;
+    width: 358px;
+    height: 44px;
+    top: 26%;
+    left: 29%;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+    
+    color: #2E2E2E;
+}
+
+.promotion_actions {
+
+    position: absolute;
+    width: 500px;
+    height: 18px;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+    left:28%;
+    top:39%;
+    color: #2E2E2E;
+}
+
+.bot-send-mail {
+    left:15%;
+    top:70%;
+position: absolute;
+width: 400px;
+height: 40px;
+background: #EF0000;
+border:none;
+border-radius: 5px;
+position: absolute;
+justify-content: center;
+width: 220px;
+height: 34.31px;
+
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+color: #FFFFFF;
+}
+
+.form-feedback {
+    position: absolute;
+    width: 500px;
+    height: 300px;
+    left:67%;
+    top:5%;
+    justify-content: center;
+    width: 300px;
+    height: 320px;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 19px;
+    align-items: center;
+    letter-spacing: 0.01em;
+    display: flex;
+	flex-direction: column;
+    background: #F4F3F3;
+border: 1px solid #FFFFFF;
+box-shadow: 0px 4px 4px rgba(169, 169, 169, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+
+}
+.form_type {
+    display: flex;
+	flex-direction: column;
+    width: 220px;
+    height: 34.31px;
+    top:13%;
+    border-radius: 5;
+    margin-top:1px;
+}
+
+
+
+.participate
+{
+position: absolute;
+width: 246px;
+height: 23px;
+left:70%;
+top:8%;
+font-family: 'Commissioner';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 19px;
+display: flex;
+align-items: center;
+letter-spacing: 0.01em;
+
+color: #000000; }
+
+.participate__text {
+    position: absolute;
+    left:69%;
+    top:12%;
+    width: 270px;
+    height: 62.74px;
+    font-family: 'Commissioner';
+    justify-content: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    margin-bottom: 10px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+    color: #000000;
+}
+
+
+.box_two 
+{
+box-sizing: border-box;
+left:7%;
+top:53%;
+position: absolute;
+width: 778px;
+height: 455px;
+
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+box-shadow: 0px 4px 4px rgba(169, 169, 169, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+}
+
+
+.bow_two__text-h1 {
+
+    position: absolute;
+    width: 285px;
+    height: 39px;
+    left:8.5%;
+    top:56.2%;
+    font-family:'Commissioner';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+    
+    color: #010101;
+
+}
+li { list-style-type: none;}
+.bow_two__text
+{
+    position: absolute;
+    width: 258px;
+    height: 238px;
+    left:7%;
+    top:59%;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+    
+    color: #2E2E2E;
+    }
+
+
+
+
+
+.box_right_column
+
+{  position: absolute;
+    width: 359px;
+    height: 65px;
+    left:33%;
+    top:62%;
+    background: #F4F3F3;
+    box-shadow: 0px 4px 4px rgba(194, 194, 194, 0.25);
+    border-radius: 10px;
+}
+
+
+
+
+.right_column_price {
+    position: absolute;
+    width: 173px;
+    height: 12px;
+    left:33%;
+    top:58%;
+    font-family:'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+    color: #010101;
+
+}
+
+
+.right_column_text_in_box {
+    position: absolute;
+    width: 308px;
+    height: 51px;
+    left:7%;
+    top:7%;
+    font-family:'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+     color: #2E2E2E;
+}
+
+.left_column_specialist_h1 {
+    position: absolute;
+    width: 219px;
+    height: 21px;
+    left:9%;
+    top:87.5%;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+    
+    color: #101010;
+
+}
+
+.left_column_specialist_img_one {
+    position: absolute;
+    width: 103px;
+    height: 122px;
+    left:10%;
+    top: 92%;
+    border-radius: 10px;
+
+
+}
+
+.left_column_specialist_img_two {
+
+    position: absolute;
+    width: 103px;
+    height: 122px;
+    left:19%;
+    top:92%;
+    border-radius: 10px;
+
+}
+
+
+.right_column_reviews
+
+{ 
+    
+    box-sizing: border-box;
+    position: absolute;
+    width: 366px;
+    height: 265px;
+    left:33%;
+    top:75%;
+    background: #F4F3F3;
+    box-shadow: 0px 4px 4px rgba(194, 194, 194, 0.25);
+    border-radius: 10px;
+ 
+
+}
+
+
+.reviews_h2 {
+
+    position: absolute;
+    width: 240px;
+    height: 17px;
+    left:7%;
+    top:10%;
+    font-family:'Commissioner';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+    color: #000000;
+    
+
+
+
+}
+
+.reviews_text_one{
+    position: absolute;
+    width: 330px;
+    height: 48px;
+    left:7%;
+    top:35%;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+     color: #090909;
+
+}
+
+
+
+
+.reviews_text_two {
+
+    position: absolute;
+    width: 330px;
+    height: 48px;
+    left:7%;
+    top:65%;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+     color: #090909;
+}
+
+.reviews_img {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    left:70%;
+    top:60%;
+}
+
+
+
+.box_guarantees {
+display: flexbox;
+position: absolute;
+width: 300px;
+height: 455px;
+left:67%;
+top:53%;
+background: #F4F3F3;
+border: 1px solid #FFFFFF;
+box-shadow: 0px 4px 4px rgba(169, 169, 169, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+}
+
+
+
+.box_guarantees_text_one {
+    position: absolute;
+    width: 170px;
+    height: 520px;
+    left:40%;
+    top:-37%;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+    color: #010101;
+
+
+}
+
+
+.box_guarantees_text_two {
+    position: absolute;
+    width: 170px;
+    height: 520px;
+    left:40%;
+    top:-10%;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+    color: #010101;
+
+}
+
+.box_guarantees_text_three{
+    position: absolute;
+    width: 170px;
+    height: 520px;
+    left:40%;
+    top:20%;
+    font-family: 'Commissioner';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+    color: #010101;
+
+} 
+
+
+.box_guarantees_img_one {
+    position: absolute;
+    width: 226px;
+    height: 520px;
+    left:10%;
+    top:10%;
+}
+
+.box_guarantees_img_two {
+    position: absolute;
+    width: 226px;
+    height: 520px;
+    left:10%;
+    top:42%;
+}
+
+
+.box_guarantees_img_three {
+    position: absolute;
+    width: 226px;
+    height: 520px;
+    left:10%;
+    top:75%;
+
+
+
+}
